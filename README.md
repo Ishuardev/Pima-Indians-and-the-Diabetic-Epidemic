@@ -2,7 +2,7 @@ Diabetes is a chronic health condition that aff ects how your body turns food in
 
 This is done by running the dataset through different learnt Machine Learning techniques using R and then interpreting the results in terms of our research questions and purpose. From this, we were able to deduce the best algorithm as well as the most influential variables for the onset of diabetes with proper mathematical reasoning provided.
 
-
+The data preparation table can be found in the folder. It contains the description for each data collected and the metrics used to measure it.
 
 References Used :
 
