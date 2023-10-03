@@ -1,5 +1,9 @@
 Diabetes is a chronic health condition that aff ects how your body turns food into energy. It causes our bodies secretion or receptiveness to the crucial enzyme insulin to become inefficient to the bodies needs. This causes high concentration of blood glucose levels to be prevalent which in turn cause serious health problems in the future for an individual, such as heart and kidney diseases. In this case study, diabetes has been a consistent problem for Pima Indians which is why we find it imperative to know the indicators to predict the onset of diabetes, and also to find the most efficient algorithm to predict it in the context of the dataset provided. 
 
+This is done by running the dataset through different learnt Machine Learning techniques using R and then interpreting the results in terms of our research questions and purpose. From this, we were able to deduce the best algorithm as well as the most influential variables for the onset of diabetes with proper mathematical reasoning provided.
+
+
+
 References Used :
 
 1.Boards, H. P. (n.d.). Diabetes in singapore. https://www.healthhub.sg/a-z/diseases-and-conditions/626/diabetes
